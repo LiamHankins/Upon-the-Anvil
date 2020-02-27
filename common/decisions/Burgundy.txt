@@ -1,0 +1,109 @@
+Burgundy_nuclear_weapons_category = {
+
+	launch_nuclear_weapons = { # fire weapons
+		#icon = #todo
+
+		visible = {
+			original_tag = BNA
+			has_government = zealism
+		}
+		cost = 50
+		available = {
+			original_tag = BNA
+			has_government = zealism
+
+			##todo other costs here##
+		}
+
+		complete_effect = {} #todo
+	}
+
+	build_nuclear_component = { # build a component instead of war/scavenging, should be expensive to resources
+		#icon = #todo
+
+		visible = {
+			original_tag = BNA
+			has_government = zealism
+		}
+		cost = 50
+		available = {
+			original_tag = BNA
+			has_government = zealism
+
+			##todo other costs here##
+		}
+
+		complete_effect = {} #todo
+	}
+	
+	scavenge_nuclear_component = { # scavenge a component (can only be done once per state)
+		#icon = #todo
+
+		visible = {
+			original_tag = BNA
+			has_government = zealism
+		}
+		cost = 50
+		available = {
+			original_tag = BNA
+			has_government = zealism
+
+			##todo other costs here##
+		}
+
+		complete_effect = {} #todo
+	}
+
+	build_small_nuclear_weapon = { # build small nuclear weapon
+		#icon = #todo
+
+		visible = {
+			original_tag = BNA
+			has_government = zealism
+		}
+		cost = 50
+		available = {
+			original_tag = BNA
+			has_government = zealism
+
+			##todo other costs here##
+		}
+
+		complete_effect = {} #todo
+	}
+
+	build_medium_nuclear_weapon = { # build medium nuclear weapon
+		#icon = #todo
+
+		visible = {
+			original_tag = BNA
+			has_government = zealism
+		}
+		cost = 50
+		available = {
+			original_tag = BNA
+			has_government = zealism
+
+			##todo other costs here##
+		}
+
+		complete_effect = {} #todo
+	}
+	build_large_nuclear_weapon = { # build large nuclear weapon
+		#icon = #todo
+
+		visible = {
+			original_tag = BNA
+			has_government = zealism
+		}
+		cost = 50
+		available = {
+			original_tag = BNA
+			has_government = zealism
+
+			##todo other costs here##
+		}
+
+		complete_effect = {} #todo
+	}
+}

@@ -1,0 +1,18 @@
+add_namespace = asturias
+
+country_event = {
+	id = asturias.1
+	title = asturias.1.t
+	desc = asturias.1.d
+	picture = GFX_APK_intro
+
+	fire_only_once = yes
+
+	trigger = {
+		original_tag = APK
+	}
+
+	option = {
+		name = asturias.1.a
+	}
+}

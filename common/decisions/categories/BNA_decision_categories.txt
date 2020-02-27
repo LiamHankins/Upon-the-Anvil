@@ -1,0 +1,12 @@
+Burgundy_nuclear_weapons_category = {
+	icon = GFX_decision_category_nuclear_weapons
+
+	allowed = {
+			original_tag = BNA
+	}
+
+	visible = {
+		original_tag = BNA
+		has_government = zealism
+	}
+}

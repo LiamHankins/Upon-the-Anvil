@@ -1,0 +1,18 @@
+add_namespace = alps
+
+country_event = {
+	id = alps.1
+	title = alps.1.t
+	desc = alps.1.d
+	picture = GFX_BUA_intro
+
+	fire_only_once = yes
+
+	trigger = {
+		original_tag = BUA
+	}
+
+	option = {
+		name = alps.1.a
+	}
+}

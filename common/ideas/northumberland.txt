@@ -1,0 +1,20 @@
+ideas = {
+
+	country = {
+
+		NRT_smile = {
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				stability_factor = 0.30
+				local_resources_factor = 0.05
+				line_change_production_efficiency_factor = 0.05
+				war_support_factor = -0.20
+			}
+		}
+	}
+}
