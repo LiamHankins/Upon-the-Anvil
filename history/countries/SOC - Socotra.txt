@@ -1,0 +1,48 @@
+﻿capital = 799
+
+OOB = "SOC_1936"
+
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1
+	tech_recon = 1
+}
+
+set_politics = {
+	ruling_party = humanism
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	humanism = 100
+}
+
+set_convoys = 5
+
+
+create_country_leader = {
+	name = "Rayhan El-Sayed"
+	desc = ""
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+	expire = "1965.1.1"
+	ideology = humanism_subtype
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "WIP"
+	desc = "WIP"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+	expire = "1965.1.1"
+	ideology = stalinism
+	traits = {
+		staunch_stalinist
+	}
+}
+
+
+
